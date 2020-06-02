@@ -1,4 +1,5 @@
 require("dotenv").config();
+// this is now setup for my personal version of tapthatmap
 
 const firebaseConfig = {
   apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
